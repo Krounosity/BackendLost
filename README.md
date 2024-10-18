@@ -13,7 +13,7 @@ Contributing<br />
 ## Features
 Report Lost Items: Users can report items they have lost, providing details like category, brand, color, and the location where they lost the item.<br />
 Report Found Items: Users can report found items with similar information, including the place where they found it.<br />
-View Lost/Found Items: Admin users can view all reported lost and found items.<br />
+View Lost/Found Items: Users can view all reported lost and found items related to him.<br />
 Match Lost and Found Items: The system attempts to match lost items with found items based on category, description, brand, and other factors.<br />
 User Authentication: Users can register and login to the system to report and manage their lost and found items.<br />
 ## Tech Stack<br />
