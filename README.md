@@ -34,7 +34,7 @@ Clone the repository<br />:
 
 bash<br />
 Copy code<br />
-git clone https://github.com/yourusername/khoye-milgaye.git<br />
+git clone https://github.com/rajat12826/BackendLost.git <br />
 cd khoye-milgaye<br />
 Install dependencies:<br />
 
